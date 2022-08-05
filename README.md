@@ -42,7 +42,7 @@ HashLine is developed in Python and is only suited for Windows Operating System.
       
  Example -
   ```
-   C:\Users\DELL\Desktop\Files\document1.docx = cbe4dc256c176d915eb037936863a841675f93225c279fad6954cd0d72f5d279c66fcbcd314e9e5dc90cdbcb131d92bce78ae7dfa2160f8920d0b967af2b7030
+   C:\Users\Desktop\Files\document1.docx = cbe4dc256c176d915eb037936863a841675f93225c279fad6954cd0d72f5d279c66fcbcd314e9e5dc90cdbcb131d92bce78ae7dfa2160f8920d0b967af2b7030
   ```
   
  3. **`Checking Integrity`** : When clicked on the 'Check Integrity' button,
